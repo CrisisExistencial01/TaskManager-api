@@ -31,8 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+### Zed Editor ###
+.zed/
 
 ### .env ###
+.env
 .env.prod
 .env.dev
 
